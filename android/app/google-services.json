@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237337974994",
+    "project_id": "fir-flutterproject-1654b",
+    "storage_bucket": "fir-flutterproject-1654b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237337974994:android:692a0637e3c07dc554f50b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_recommendation_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_R0kHiTY1GUWGCkEsgirVRDP3rG9y4eA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
